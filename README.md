@@ -5,6 +5,8 @@ This is a collection of interactive courses for use with the [swirl R package](h
 
 For more information regarding swirl, visit [swirlstats.com](http://swirlstats.com) or the [swirl GitHub repository](https://github.com/swirldev/swirl). If you'd like to write your own interactive content, please visit the [Instructors page](http://swirlstats.com/instructors.html) of our website.
 
+This repository only contains a limited selection of courses, including Data Analysis, ErrFind, Getting and Cleaning Data, Mathematical Biostatistics Boot Camp, and an Overview of Statistics.    
+
 Here are our current offerings, organized by level of difficulty:
 
 #### Beginner
